@@ -15,7 +15,7 @@ demonstrating HTTP, DNS, TCP, UDP, ICMP, and ARP protocols.
 - 1 Combined DNS/HTTP Server (192.168.1.20)
 
 ## Files
-- `Final_Report.pdf` - Complete project report
+- `CSCE3530FinalProject.docx` - Complete project report
 - `StudyLounge.pkt` - Cisco Packet Tracer network file
-- `topology_diagram.png` - Network topology diagram
-- `screenshots/` - Configuration and testing screenshots
+- `topology_diagram.png` - Network topology diagram (embedded in report)
+- `screenshots/` - Configuration and testing screenshots (embedded in report)
